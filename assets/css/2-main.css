@@ -1,0 +1,71 @@
+/*!
+* www.dereksalmon.me V0.1 (13/106/17) @author: Pikselkraf, Derek Salmon
+* Licence WTFPL http://www.wtfpl.net/
+*/
+/*****  THEME *****/
+/* ----------------------------- */
+/* ==Table Of Content            */
+/* ----------------------------- */
+/* 1- --Reset */
+/* 2- --Structure main */
+/* 3- --Header */
+/* 4- --Content */
+/* 5- --Footer */
+/* 6- --Services page + legals */
+/* 7- --404 */
+/* 8- --Utilities */
+/* 9- --Print */
+/* 10- --Decorative */
+
+/*------------------------------------------------------------------
+Color codes]
+Alternate black:    #34302F
+Alternate White:    #FDFDFD
+-------------------------------------------------------------------*/
+
+/*------------------------------------------------------------------
+[Typography]
+Body copy:
+Headers:
+Input, textarea:
+
+Notes:	decreasing heading by 1.618 with every subsequent heading level
+
+
+/*------------------------------------------------------------------
+[Media queries]
+* for-phone-only
+@media (max-width: 59.90 em) {  }
+
+* all except phone
+@media (min-width: 32 em) {  }
+
+* tablet-portrait-up
+@media (min-width: 60em) {  }
+
+* tablet-landscape-up
+@media (min-width: 90em) {  }
+
+* desktop-up
+@media (min-width: 120em) {  }
+
+* big-desktop-up
+@media (min-width: 180em) {  }
+
+/*------------------------------------------------------------------
+[Convention]
+Objects: .o-
+Components: .c-
+State: .is- OR .has-
+Theme: .t-
+Utilities: .u-
+Javascript hooks: .js-
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+-------------------------------------------------------------------*/
+
+
+/*  ==========================================================================
+--Structure
+========================================================================== */

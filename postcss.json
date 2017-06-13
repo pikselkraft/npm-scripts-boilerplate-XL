@@ -1,0 +1,10 @@
+{
+  "use": [
+		"uncss",
+    "postcss-cssnext"
+  ],
+  "input": "assets/css/bundle.css",
+  "output": "assets/css/bundle.next.css",
+  "local-plugins": true,
+  "watch": true
+}
